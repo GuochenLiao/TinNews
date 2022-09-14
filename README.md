@@ -1,6 +1,6 @@
 # TinNews
  
-A Instagram Flavor News app based on Google Component Architectural MVVM Pattern
+A Instagram Flavor News app based on Google Component Architectural MVVM Pattern.
 Built the Room Database with LiveData & ViewModel to support local cache and offline model!
 
 
